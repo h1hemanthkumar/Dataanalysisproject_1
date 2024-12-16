@@ -1,0 +1,34 @@
+In regarding to the above dataset I made some data analysis 
+
+1) How many purchase in total done?
+
+   As it is a smaller data set it consisiting of around 10000 rows in total
+
+2) what are the field or column present in the provided dataset?
+
+   There are total 14 column which consisting of some important details like credit card number,exp date etc
+
+3) Check the total null value?
+
+   As the data set is very good there is no null value in the dataset 
+
+4) What is the Maximum price and Minimum price that the item sold ?
+
+   Max->99.9   2 people had did this 
+   Min->0.0   It shows that the customer had canceled the order also 2 people had did thi
+
+5) How many engineers had buyed the product? you can get many of this like this
+
+   531
+
+6) Most sales is done in the pm or am?
+
+    pm like most of the sales is done in sales
+
+7) what are the expire data at 20 or 15 like that 
+
+   a particular number of it 
+
+8) What are the different languages people buy the products?
+
+    many language are there in dataset is going to display
